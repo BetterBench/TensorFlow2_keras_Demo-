@@ -4,6 +4,7 @@
 （1）训练模型  
 数据集：采用TensorFlow2.3的TensorFlow-datasets内置的mnist数据集 ，必须是2.1版本。  
 > pip install Tensorflow_datasets==2.1 
+
 神经网络：全连接  
 损失函数：分类交叉熵  
 优化器：Adam  
