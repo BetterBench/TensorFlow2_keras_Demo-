@@ -24,7 +24,7 @@ scipy
 
 # 2 猫狗分类 Dog_Cats
 （1）训练模型  
-数据集：采用kaggle公开的猫狗数据集，文件名称是cat.**.jpg或dog.**.jpg  。[下载地址](https://www.kaggle.com/c/dogs-vs-cats)
+数据集：采用kaggle公开的猫狗数据集，文件名称是cat.**.jpg或dog.**.jpg  。[下载地址](https://www.kaggle.com/c/dogs-vs-cats)  
 神经网络：卷积神经网络  
 损失函数：分类交叉熵  
 优化器：Adam  
