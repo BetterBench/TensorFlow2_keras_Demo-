@@ -14,7 +14,7 @@ Epochs：100
 测试集：采用TensorFlow2.3的TensorFlow-datasets内置的mnist数据集，形状改为28*28  
 （3）环境  
 > Python 3.8  
-TensorFlow 2,3  
+TensorFlow 2.3  
 Tensorflow_datasets 2.1  
 scipy  
 numpy  
